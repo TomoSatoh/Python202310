@@ -1,5 +1,2 @@
 # Python202310
-ReadME
-000
-111
-222
+Python　ソース
